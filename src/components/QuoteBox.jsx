@@ -26,4 +26,4 @@ const objectBgStyle = {
   )
 }
 
-export default CardUsers
+export default QuoteBox
